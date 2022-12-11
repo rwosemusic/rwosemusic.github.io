@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Rwose</title>
+    <link>https://www.rwose.com/releases/</link>
+    <description>Recent content in Music on Rwose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright RWOSE</copyright>
+    <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rwose.com/releases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://www.rwose.com/releases/music/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rwose.com/releases/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single</title>
+      <link>https://www.rwose.com/releases/single/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rwose.com/releases/single/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
