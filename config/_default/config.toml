@@ -16,6 +16,7 @@ buildFuture = false
 
 googleAnalytics = "G-LWX1D8E66J"
 
+minify = false
 publishDir = "docs"
 
 [taxonomies]
