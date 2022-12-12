@@ -3,8 +3,8 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://www.rwose.com/"
-baseURL = "http://rwosemusic.github.io"
+baseURL = "https://www.rwose.com/"
+# baseURL = "http://rwosemusic.github.io"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
