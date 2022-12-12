@@ -1,1 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://www.rwose.com/releases/music/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/releases/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/posts/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/press/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/releases/single/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/posts/sunflower/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/</loc><lastmod>2022-12-05T00:00:00+00:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/authors/</loc><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/categories/</loc><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/series/</loc><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://www.rwose.com/tags/</loc><changefreq>daily</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/releases/music/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/releases/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/posts/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/press/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/releases/single/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/posts/sunflower/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/</loc>
+            <lastmod>2022-12-05T00:00:00+00:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/authors/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/categories/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/series/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rwosemusic.github.io/tags/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+</urlset>
