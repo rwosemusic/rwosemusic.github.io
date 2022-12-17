@@ -6,4 +6,6 @@ summary: "press kit"
 ---
 
 
-Click [HERE](/Rwose_Sunflower_EPK.pdf) to download EPK or reach out for more info contact me below.
+<!--- Click [HERE](/Rwose_Sunflower_EPK.pdf "Sunflower by Rwose Electronic Press Kit") to download EPK or reach out for more info contact me below. --->
+
+<a target="_blank" title="Sunflower by Rwose Electronic Press Kit" href="/Rwose_Sunflower_EPK.pdf">CLICK HERE</a> to download EPK or reach out for more info contact me below.
