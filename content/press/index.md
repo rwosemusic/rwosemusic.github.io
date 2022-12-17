@@ -6,4 +6,4 @@ summary: "press kit"
 ---
 
 
-Click [HERE]() to download EPK or reach out for more info contact me below.
+Click [HERE](/Rwose_Sunflower_EPK.pdf) to download EPK or reach out for more info contact me below.
