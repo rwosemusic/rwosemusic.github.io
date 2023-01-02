@@ -4,8 +4,11 @@ description: "Rwose Releases"
 ---
 
 Stream  
-[linktree](https://artists.landr.com/sunflowerbyrwose)  
+[Rwose Youtube Channel](https://youtube.com/@rwosemusic)  
 [Spotify](https://open.spotify.com/album/2lKitXCccMZ7EwGSI6pLZL)  
+[Bandcamp](https://rwosemusic.bandcamp.com/releases)  
+[Soundcloud](https://soundcloud.com/rwosemusic)
+[Linktree](https://artists.landr.com/sunflowerbyrwose)  
 [Itunes](https://geo.music.apple.com/album/sunflower-single/1658198452)  
 [Apple Music](https://geo.music.apple.com/album/sunflower-single/1658198452?app=music)  
 [Deezer](https://www.deezer.com/album/383743097)  
