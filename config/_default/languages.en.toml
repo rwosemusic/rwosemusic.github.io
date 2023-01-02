@@ -28,6 +28,7 @@ dateFormat = "2 January 2006"
      { youtube = "https://youtube.com/@rwosemusic" },
      { instagram = "https://instagram.com/rwosemusic" },
      { email = "mailto:contact@rwose.com" },
+     { soundcloud = "https://soundcloud.com/rwosemusic" },
 
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
